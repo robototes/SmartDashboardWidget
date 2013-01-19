@@ -1,0 +1,7 @@
+_MACOSX/*
+build/*
+j2meclasses/*
+nbproject/private/*
+
+*.tmp
+*.class
