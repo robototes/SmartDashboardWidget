@@ -5,3 +5,4 @@ nbproject/private/*
 
 *.tmp
 *.class
+/SmartDashboardWidget/nbproject/private/
