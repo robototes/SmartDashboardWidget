@@ -6,3 +6,5 @@ nbproject/private/*
 *.tmp
 *.class
 /SmartDashboardWidget/nbproject/private/
+/SmartDashboardWidget/build/
+/SmartDashboardWidget/dist/
